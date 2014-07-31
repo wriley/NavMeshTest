@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class CapsuleController : MonoBehaviour {
+public class PlayerController : MonoBehaviour {
 
 	private Vector3 _target;
 	public Vector3 Target
